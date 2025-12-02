@@ -82,7 +82,7 @@ MonoBehaviour:
       debugIndex: 5
       strings:
       - 
-      - 
+      - "\u6D77\u7433\u5A1C"
       - 
       - 
       - 
@@ -97,7 +97,7 @@ MonoBehaviour:
       debugIndex: 6
       strings:
       - 
-      - 
+      - "\u6D77\u56E0\u65AF"
       - 
       - 
       - 
@@ -172,7 +172,7 @@ MonoBehaviour:
       debugIndex: 13
       strings:
       - 
-      - 
+      - "\u6D77\u56E0\u65AF"
       - 
       - 
       - 
@@ -187,7 +187,7 @@ MonoBehaviour:
       debugIndex: 14
       strings:
       - 
-      - 
+      - "\u6D77\u7433\u5A1C"
       - 
       - 
       - 
@@ -202,7 +202,7 @@ MonoBehaviour:
       debugIndex: 15
       strings:
       - 
-      - 
+      - "\u6D77\u7433\u5A1C"
       - 
       - 
       - 
@@ -217,7 +217,7 @@ MonoBehaviour:
       debugIndex: 16
       strings:
       - 
-      - 
+      - "\u6D77\u56E0\u65AF"
       - 
       - 
       - 
@@ -246,15 +246,13 @@ MonoBehaviour:
     - rowIndex: 15
       debugIndex: 18
       strings:
-      - 
-      - 
       - EndScenario
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/71302521/Scenarios/71302521.xls:Start
     type: 1
-    textLength: 509
+    textLength: 527
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 576d48de80df7904da23ad8df49b5ab0, type: 3}
     entityIndexTbl: 
@@ -288,9 +286,127 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u6D77\u7433\u5A1C"
+      - 
+      - "\u6012"
+      - 
+      - 
+      - 
+      - 
+      - .6
+      - 
+      - N1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u6A02"
+      - 
+      - 
+      - 
+      - 
+      - .6
+      - 
+      - N2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .6
+      - 
+      - N3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u6D77\u56E0\u65AF"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .6
+      - 
+      - H1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - "\u4E00\u822C(\u76BA\u7709)"
+      - 
+      - 
+      - 
+      - 
+      - .6
+      - 
+      - H2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u5967\u863F\u62C9"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .6
+      - 
+      - O1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - "\u559C"
+      - 
+      - 
+      - 
+      - 
+      - .6
+      - 
+      - O2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/71302521/Scenarios/71302521.xls:Character
     type: 1
-    textLength: 166
+    textLength: 246
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 576d48de80df7904da23ad8df49b5ab0, type: 3}
   - rows:
@@ -712,7 +828,7 @@ MonoBehaviour:
       debugIndex: 5
       strings:
       - 
-      - 
+      - "\u6D77\u7433\u5A1C"
       - 
       - 
       - 
@@ -727,7 +843,7 @@ MonoBehaviour:
       debugIndex: 6
       strings:
       - 
-      - 
+      - "\u6D77\u56E0\u65AF"
       - 
       - 
       - 
@@ -814,7 +930,7 @@ MonoBehaviour:
       debugIndex: 13
       strings:
       - 
-      - 
+      - "\u6D77\u56E0\u65AF"
       - 
       - 
       - 
@@ -829,7 +945,7 @@ MonoBehaviour:
       debugIndex: 14
       strings:
       - 
-      - 
+      - "\u6D77\u7433\u5A1C"
       - 
       - 
       - 
@@ -844,7 +960,7 @@ MonoBehaviour:
       debugIndex: 15
       strings:
       - 
-      - 
+      - "\u6D77\u7433\u5A1C"
       - 
       - 
       - 
@@ -859,7 +975,7 @@ MonoBehaviour:
       debugIndex: 16
       strings:
       - 
-      - 
+      - "\u6D77\u56E0\u65AF"
       - 
       - 
       - 
@@ -888,14 +1004,12 @@ MonoBehaviour:
     - rowIndex: 18
       debugIndex: 18
       strings:
-      - 
-      - 
       - EndScenario
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/71302521/Scenarios/71302521.xls:Start
     type: 1
-    textLength: 509
+    textLength: 527
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 576d48de80df7904da23ad8df49b5ab0, type: 3}
