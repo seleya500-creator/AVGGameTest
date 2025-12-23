@@ -54,9 +54,9 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .6
+      - .7
       - 
-      - H1.png
+      - H1-NEW.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -70,9 +70,9 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .6
+      - .7
       - 
-      - H2.png
+      - H2-NEW.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -86,9 +86,9 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .6
+      - .7
       - 
-      - H3.png
+      - H3-NEW.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -102,7 +102,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .6
+      - .7
       - 
       - H4.png
       isEmpty: 0
@@ -118,9 +118,9 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .6
+      - .7
       - 
-      - H5.png
+      - H5-NEW.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -154,7 +154,7 @@ MonoBehaviour:
       - 
       - .6
       - 
-      - N1.png
+      - N1-NEW.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -186,7 +186,7 @@ MonoBehaviour:
       - 
       - .6
       - 
-      - N3.png
+      - N3-NEW.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -202,7 +202,7 @@ MonoBehaviour:
       - 
       - .6
       - 
-      - N4.png
+      - N4-NEW.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -218,7 +218,7 @@ MonoBehaviour:
       - 
       - .6
       - 
-      - N5.png
+      - N5-NEW.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -316,13 +316,13 @@ MonoBehaviour:
       - 
       - .6
       - 
-      - O5.png
+      - O5-NEW.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/71302521/Scenarios/71302521.xls:Character
     type: 1
-    textLength: 323
+    textLength: 359
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 576d48de80df7904da23ad8df49b5ab0, type: 3}
   - rows:
