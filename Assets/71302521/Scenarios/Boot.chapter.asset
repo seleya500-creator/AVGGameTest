@@ -348,9 +348,39 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u66F8\u623F"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - BG2-study
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u68EE\u6797"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - BG1
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/71302521/Scenarios/71302521.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 132
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 576d48de80df7904da23ad8df49b5ab0, type: 3}
   - rows:
@@ -593,9 +623,19 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u80CC\u666F\u97F3\u6A021_\u65E5\u5E38"
+      - 
+      - Bgm
+      - BGM02.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/71302521/Scenarios/71302521.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 57
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 576d48de80df7904da23ad8df49b5ab0, type: 3}
   - rows:
