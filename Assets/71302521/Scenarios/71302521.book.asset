@@ -324,13 +324,186 @@ MonoBehaviour:
     - rowIndex: 21
       debugIndex: 23
       strings:
+      - Selection
+      - "*\u53BB\u738B\u5BAE"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u53BB\u738B\u5BAE"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 24
+      strings:
+      - Selection
+      - "*\u4E0D\u53BB"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u4E0D\u53BB"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 25
+      strings:
+      - "*\u53BB\u738B\u5BAE"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 27
+      strings:
+      - 
+      - "\u6D77\u56E0\u65AF"
+      - "\u4E00\u822C"
+      - "\u5DE6\u908A"
+      - 
+      - 
+      - 
+      - 
+      - "\u597D\u5427\uFF0C\u6211\u6536\u62FE\u4E00\u4E0B\u53EF\u80FD\u6703\u7528\u5230\u7684\u6CD5\u66F8\u8DDF\u9B54\u6CD5\u9053\u5177\uFF0C\u59B3\u7B49\u6211\u4E00\u4E0B\u3002"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 28
+      strings:
+      - 
+      - "\u6D77\u56E0\u65AF"
+      - "\u4E00\u822C"
+      - "\u5DE6\u908A"
+      - 
+      - 
+      - 
+      - 
+      - "\u59B3\u7684\u6B66\u5668\u8DDF\u8B77\u7532\u4E4B\u985E\u7684\u4E5F\u90FD\u6709\u5E36\u4E0A\u4E86\u55CE\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 29
+      strings:
+      - 
+      - "\u6D77\u7433\u5A1C"
+      - "\u4E00\u822C"
+      - "\u53F3\u908A"
+      - 
+      - 
+      - 
+      - 
+      - "\u7576\u7136\u6709\u4E86\uFF0C\u90FD\u6536\u5728\u6211\u7684\u5132\u7269\u7A7A\u9593\u5167\u5462\uFF0C\u6709\u9700\u8981\u96A8\u6642\u53EF\u53D6\u51FA\u3002\u90A3\u4F60\u5FEB\u4E9B\uFF0C\u6211\u6709\u9EDE\u64D4\u5FC3\u5967\u7F85\u62C9\u3002"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 30
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u5C11\u5E74\u5FEB\u901F\u6536\u62FE\u4E00\u4E0B\u5F8C\uFF0C\u8DDF\u8457\u5C11\u5973\u4E00\u8D77\u5306\u5306\u51FA\u767C\u3002"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 32
+      strings:
       - EndScenario
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/71302521/Scenarios/71302521.xls:Start
     type: 1
-    textLength: 619
+    textLength: 781
+    headerRow: 0
+    sourceAssetInEditor: {fileID: 102900000, guid: 576d48de80df7904da23ad8df49b5ab0, type: 3}
+    entityIndexTbl: 
+    entityDataList: []
+  - rows:
+    - rowIndex: 0
+      debugIndex: 0
+      strings:
+      - Command
+      - Arg1
+      - Arg2
+      - Arg3
+      - Arg4
+      - Arg5
+      - Arg6
+      - WaitType
+      - Text
+      - PageCtrl
+      - Voice
+      - WindowType
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - Bgm
+      - "\u80CC\u666F\u97F3\u6A021_\u65E5\u5E38"
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - Bg
+      - "\u66F8\u623F"
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u56E0\u7121\u4EBA\u5E6B\u52A9\u5967\u863F\u62C9\u9003\u812B\uFF0C\u738B\u5BA4\u88AB\u67B6\u7A7A\u5F62\u540C\u9B41\u5121\uFF0C\u96D9\u5B50\u5F9E\u6B64\u8207\u516C\u4E3B\u5931\u806F\uFF0C\u904A\u6232\u7D50\u675F\u3002"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 5
+      strings:
+      - EndScenario
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: "Assets/71302521/Scenarios/71302521.xls:\u4E0D\u53BB"
+    type: 1
+    textLength: 128
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 576d48de80df7904da23ad8df49b5ab0, type: 3}
     entityIndexTbl: 
@@ -1400,12 +1573,219 @@ MonoBehaviour:
     - rowIndex: 23
       debugIndex: 23
       strings:
+      - Selection
+      - "*\u53BB\u738B\u5BAE"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u53BB\u738B\u5BAE"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - Selection
+      - "*\u4E0D\u53BB"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u4E0D\u53BB"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - "*\u53BB\u738B\u5BAE"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - 
+      - "\u6D77\u56E0\u65AF"
+      - "\u4E00\u822C"
+      - "\u5DE6\u908A"
+      - 
+      - 
+      - 
+      - 
+      - "\u597D\u5427\uFF0C\u6211\u6536\u62FE\u4E00\u4E0B\u53EF\u80FD\u6703\u7528\u5230\u7684\u6CD5\u66F8\u8DDF\u9B54\u6CD5\u9053\u5177\uFF0C\u59B3\u7B49\u6211\u4E00\u4E0B\u3002"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - 
+      - "\u6D77\u56E0\u65AF"
+      - "\u4E00\u822C"
+      - "\u5DE6\u908A"
+      - 
+      - 
+      - 
+      - 
+      - "\u59B3\u7684\u6B66\u5668\u8DDF\u8B77\u7532\u4E4B\u985E\u7684\u4E5F\u90FD\u6709\u5E36\u4E0A\u4E86\u55CE\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - 
+      - "\u6D77\u7433\u5A1C"
+      - "\u4E00\u822C"
+      - "\u53F3\u908A"
+      - 
+      - 
+      - 
+      - 
+      - "\u7576\u7136\u6709\u4E86\uFF0C\u90FD\u6536\u5728\u6211\u7684\u5132\u7269\u7A7A\u9593\u5167\u5462\uFF0C\u6709\u9700\u8981\u96A8\u6642\u53EF\u53D6\u51FA\u3002\u90A3\u4F60\u5FEB\u4E9B\uFF0C\u6211\u6709\u9EDE\u64D4\u5FC3\u5967\u7F85\u62C9\u3002"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u5C11\u5E74\u5FEB\u901F\u6536\u62FE\u4E00\u4E0B\u5F8C\uFF0C\u8DDF\u8457\u5C11\u5973\u4E00\u8D77\u5306\u5306\u51FA\u767C\u3002"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
+      strings:
       - EndScenario
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/71302521/Scenarios/71302521.xls:Start
     type: 1
-    textLength: 619
+    textLength: 781
+    headerRow: 0
+    sourceAssetInEditor: {fileID: 102900000, guid: 576d48de80df7904da23ad8df49b5ab0, type: 3}
+  - rows:
+    - rowIndex: 0
+      debugIndex: 0
+      strings:
+      - Command
+      - Arg1
+      - Arg2
+      - Arg3
+      - Arg4
+      - Arg5
+      - Arg6
+      - WaitType
+      - Text
+      - PageCtrl
+      - Voice
+      - WindowType
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - Bgm
+      - "\u80CC\u666F\u97F3\u6A021_\u65E5\u5E38"
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - Bg
+      - "\u66F8\u623F"
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u56E0\u7121\u4EBA\u5E6B\u52A9\u5967\u863F\u62C9\u9003\u812B\uFF0C\u738B\u5BA4\u88AB\u67B6\u7A7A\u5F62\u540C\u9B41\u5121\uFF0C\u96D9\u5B50\u5F9E\u6B64\u8207\u516C\u4E3B\u5931\u806F\uFF0C\u904A\u6232\u7D50\u675F\u3002"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - EndScenario
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: "Assets/71302521/Scenarios/71302521.xls:\u4E0D\u53BB"
+    type: 1
+    textLength: 128
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 576d48de80df7904da23ad8df49b5ab0, type: 3}
