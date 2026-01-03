@@ -370,6 +370,8 @@ MonoBehaviour:
       - 
       - 
       - "\u597D\u5427\uFF0C\u6211\u6536\u62FE\u4E00\u4E0B\u53EF\u80FD\u6703\u7528\u5230\u7684\u6CD5\u66F8\u8DDF\u9B54\u6CD5\u9053\u5177\uFF0C\u59B3\u7B49\u6211\u4E00\u4E0B\u3002"
+      - 
+      - V06
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -385,6 +387,8 @@ MonoBehaviour:
       - 
       - 
       - "\u59B3\u7684\u6B66\u5668\u8DDF\u8B77\u7532\u4E4B\u985E\u7684\u4E5F\u90FD\u6709\u5E36\u4E0A\u4E86\u55CE\uFF1F"
+      - 
+      - V07
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -400,6 +404,8 @@ MonoBehaviour:
       - 
       - 
       - "\u7576\u7136\u6709\u4E86\uFF0C\u90FD\u6536\u5728\u6211\u7684\u5132\u7269\u7A7A\u9593\u5167\u5462\uFF0C\u6709\u9700\u8981\u96A8\u6642\u53EF\u53D6\u51FA\u3002\u90A3\u4F60\u5FEB\u4E9B\uFF0C\u6211\u6709\u9EDE\u64D4\u5FC3\u5967\u7F85\u62C9\u3002"
+      - 
+      - V08
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -435,7 +441,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/71302521/Scenarios/71302521.xls:Start
     type: 1
-    textLength: 781
+    textLength: 790
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 576d48de80df7904da23ad8df49b5ab0, type: 3}
     entityIndexTbl: 
@@ -1634,6 +1640,8 @@ MonoBehaviour:
       - 
       - 
       - "\u597D\u5427\uFF0C\u6211\u6536\u62FE\u4E00\u4E0B\u53EF\u80FD\u6703\u7528\u5230\u7684\u6CD5\u66F8\u8DDF\u9B54\u6CD5\u9053\u5177\uFF0C\u59B3\u7B49\u6211\u4E00\u4E0B\u3002"
+      - 
+      - V06
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -1649,6 +1657,8 @@ MonoBehaviour:
       - 
       - 
       - "\u59B3\u7684\u6B66\u5668\u8DDF\u8B77\u7532\u4E4B\u985E\u7684\u4E5F\u90FD\u6709\u5E36\u4E0A\u4E86\u55CE\uFF1F"
+      - 
+      - V07
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -1664,6 +1674,8 @@ MonoBehaviour:
       - 
       - 
       - "\u7576\u7136\u6709\u4E86\uFF0C\u90FD\u6536\u5728\u6211\u7684\u5132\u7269\u7A7A\u9593\u5167\u5462\uFF0C\u6709\u9700\u8981\u96A8\u6642\u53EF\u53D6\u51FA\u3002\u90A3\u4F60\u5FEB\u4E9B\uFF0C\u6211\u6709\u9EDE\u64D4\u5FC3\u5967\u7F85\u62C9\u3002"
+      - 
+      - V08
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -1714,7 +1726,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/71302521/Scenarios/71302521.xls:Start
     type: 1
-    textLength: 781
+    textLength: 790
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 576d48de80df7904da23ad8df49b5ab0, type: 3}
   - rows:
